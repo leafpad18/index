@@ -1,0 +1,21 @@
+.btn:hover
+{
+background-image:url(campus.jpg);
+color:#ffe6f0;
+}
+
+.resize{
+  width: 250px;
+  height: 250px;
+}
+
+
+
+.btncolor{
+  background-color: #ff4d94;
+  font-size: 20px;
+  Color: white;
+  font-family: cursive;
+
+
+}
